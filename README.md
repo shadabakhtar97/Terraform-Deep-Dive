@@ -1,4 +1,4 @@
-# Shadab-Terraform
+# Terraform Deep Dive
 
 Terraform is an open-source infrastructure as code (IaC) tool developed by HashiCorp. It enables users to define and provision infrastructure in a declarative configuration language. Terraform allows you to create, modify, and version infrastructure efficiently and safely.
 
